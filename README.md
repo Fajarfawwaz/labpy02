@@ -70,10 +70,17 @@ Program mencetak rincian gaji karyawan, termasuk nama, gaji pokok, potongan, dan
 
 ## STRUKTUR PROGRAM
 Input:
+
 • Gaji (int)
+
 • Status berkeluarga (Y/T)
+
 • Status kepemilikan rumah (Y/T)
+
 • Output:
+
 • Apakah gaji sudah di atas UMR atau belum
+
 • Kewajiban mengikuti asuransi jika sudah berkeluarga
+
 • Kewajiban membayar pajak rumah jika punya rumah
