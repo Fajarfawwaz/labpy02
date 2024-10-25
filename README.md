@@ -46,3 +46,13 @@ Output:
 • Keterangan ("LULUS" atau "TIDAK LULUS")
 
 BERIKUT SCREENSHOT VISUAL
+# ![Screenshot 2024-10-25 041102](https://github.com/user-attachments/assets/c40e7100-7e24-4568-a585-b3141d1628cc)
+
+## LATIHAN 2
+## MEMBUAT PROGRAM MENAMPILKAN GAJI KARYAWAN
+## DESKRIPSI
+Program ini menerima input gaji, status keluarga (sudah berkeluarga atau belum), dan status kepemilikan rumah dari pengguna, kemudian melakukan beberapa pengecekan sebagai berikut:
+
+1. Apakah gaji di atas UMR (Upah Minimum Regional).
+2. Jika gaji di atas UMR, program akan mengecek apakah pengguna sudah berkeluarga untuk menentukan kewajibam mengikuti asuransi dan menabung.
+3. Program juga mengecek apakah pengguna memiliki rumah untuk menentukan kewajiban membayar pajak rumah.
