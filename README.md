@@ -96,9 +96,10 @@ Kondisi OR adalah operator logika yang digunakan untuk mengevaluasi dua atau leb
 1. Definisi Operator OR adalah operator logika yang digunakan untuk mengevaluasi dua atau lebih kondisi. Dalam Python, operator ini ditulis sebagai or. Jika salah satu dari kondisi tersebut bernilai True, maka keseluruhan ekspresi juga akan bernilai True. Sebaliknya, jika semua kondisi bernilai False, maka hasilnya adalah False.
   
 2. Sintaksis Penggunaan dasar operator OR dalam Python adalah sebagai berikut:
+```Python
 if kondisi1 or kondisi2:
     # lakukan sesuatu
-
+```
 3. Contoh Penggunaan:
 A. Pemeriksaan Sederhana Misalnya, kita ingin mengecek apakah sebuah angka berada di luar rentang tertentu:
 ```Python
@@ -118,3 +119,34 @@ if gaji > 5000000 or memiliki_rumah:
 else:
     print("Kelayakan pinjaman tidak terpenuhi")
 ```
+Jika gaji lebih dari 5.000.000 atau pemohon memiliki rumah, mereka dianggap layak untuk pinjaman.
+
+C. Logika dalam Pendidikan Dalam konteks pendidikan, kita dapat menggunakan OR untuk mengevaluasi nilai siswa:
+```Python
+if a + b == c or b + c == a or c + a == b:
+    print("BENAR")
+else:
+    print("SALAH")
+```
+Program ini memeriksa apakah jumlah dua bilangan sama dengan bilangan ketiga. Jika salah satu kondisi terpenuhi, outputnya adalah "BENAR".
+
+4. Keuntungan Menggunakan OR
+Menyederhanakan Kode: Operator OR memungkinkan kita untuk menggabungkan beberapa kondisi dalam satu pernyataan, yang membuat kode lebih bersih dan mudah dibaca.
+
+Fleksibilitas: Dengan menggunakan OR, kita bisa menetapkan kriteria yang lebih fleksibel untuk logika keputusan.
+
+# KESIMPULAN
+Operator OR adalah alat yang sangat berguna dalam pemrograman untuk mengevaluasi beberapa kondisi. Memahami cara kerjanya memungkinkan programmer untuk membuat logika yang lebih kompleks dan dinamis dalam aplikasi mereka. Jika ada yang ingin Anda tanyakan lebih lanjut, silakan beri tahu!
+
+## STRUKTUR PROGRAM
+1. Input Data:
+Menggunakan input() untuk meminta pengguna memasukkan nama, gaji, dan status kepemilikan rumah. Gaji diambil sebagai float untuk memungkinkan nilai desimal. Status kepemilikan rumah diubah menjadi boolean dengan membandingkan input dengan "Y".
+
+2. Proses Logika Menggunakan OR:
+Menggunakan pernyataan if untuk mengevaluasi apakah gaji lebih dari 5.000.000 atau jika pengguna memiliki rumah. Jika salah satu kondisi bernilai True, maka variabel kelayakan diatur menjadi "layak untuk mendapatkan pinjaman." Jika tidak, diatur menjadi "tidak layak untuk mendapatkan pinjaman."
+
+3. Output Hasil:
+Menggunakan print() untuk menampilkan hasil kepada pengguna, termasuk nama, gaji, dan kelayakan pinjaman.
+
+# BERIKUT HASIL VISUALCODE
+# ![Screenshot 2024-10-25 041848](https://github.com/user-attachments/assets/42c6d2bd-2154-45d9-b12f-9c41f91445f2)
