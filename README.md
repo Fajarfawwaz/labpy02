@@ -84,3 +84,12 @@ Input:
 • Kewajiban mengikuti asuransi jika sudah berkeluarga
 
 • Kewajiban membayar pajak rumah jika punya rumah
+
+## BERIKUT HASIL SCREENSHOT VISUALCODE
+# ![Screenshot 2024-10-25 041614](https://github.com/user-attachments/assets/8fd35475-60f9-42e6-972b-da2c201cd398)
+
+## LATIHAN 3
+### PENGGUNAAN KONDISI OR
+### DESKRIPSI
+Kondisi OR adalah operator logika yang digunakan untuk mengevaluasi dua atau lebih ekspresi kondisi. Dalam bahasa pemrograman Python, operator ini memungkinkan kita untuk memeriksa beberapa kondisi sekaligus. Jika salah satu atau lebih dari kondisi tersebut bernilai True, maka keseluruhan pernyataan akan dianggap True. Sebaliknya, jika semua kondisi bernilai False, maka hasilnya adalah False. Penggunaan kondisi OR sangat berguna dalam berbagai situasi di mana beberapa kondisi perlu dievaluasi. Operator ini memudahkan pengambilan keputusan dalam logika program, sehingga membuat kode menjadi lebih ringkas dan efisien. Dengan memahami cara kerja OR, programmer dapat menciptakan skrip yang lebih kompleks dan dinamis.
+## PENJELASAN OR
