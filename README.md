@@ -56,3 +56,24 @@ Program ini menerima input gaji, status keluarga (sudah berkeluarga atau belum),
 1. Apakah gaji di atas UMR (Upah Minimum Regional).
 2. Jika gaji di atas UMR, program akan mengecek apakah pengguna sudah berkeluarga untuk menentukan kewajibam mengikuti asuransi dan menabung.
 3. Program juga mengecek apakah pengguna memiliki rumah untuk menentukan kewajiban membayar pajak rumah.
+
+# PENJELASAN PROGRAM
+1. Input Data Karyawan:
+Program meminta input dari pengguna untuk nama karyawan, gaji pokok, dan total potongan gaji. Menghitung Gaji Bersih:
+2. Menghitung Gaji Bersih:
+Gaji bersih dihitung dengan mengurangi gaji pokok dengan total potongan:
+gaji_bersih
+gaji_pokok − potongan
+gaji_bersih=gaji_pokok−potongan
+3. Output:
+Program mencetak rincian gaji karyawan, termasuk nama, gaji pokok, potongan, dan gaji bersih.
+
+## STRUKTUR PROGRAM
+Input:
+• Gaji (int)
+• Status berkeluarga (Y/T)
+• Status kepemilikan rumah (Y/T)
+• Output:
+• Apakah gaji sudah di atas UMR atau belum
+• Kewajiban mengikuti asuransi jika sudah berkeluarga
+• Kewajiban membayar pajak rumah jika punya rumah
