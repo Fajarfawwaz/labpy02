@@ -150,3 +150,10 @@ Menggunakan print() untuk menampilkan hasil kepada pengguna, termasuk nama, gaji
 
 # BERIKUT HASIL VISUALCODE
 # ![Screenshot 2024-10-25 041848](https://github.com/user-attachments/assets/42c6d2bd-2154-45d9-b12f-9c41f91445f2)
+
+## FLOWCHART 1
+# ![WhatsApp Image 2024-10-27 at 09 19 50](https://github.com/user-attachments/assets/e3499457-ba78-4eb2-9ee2-cfe215a77ec4)
+
+## FLOWCHART 2
+# ![WhatsApp Image 2024-10-27 at 10 45 24](https://github.com/user-attachments/assets/48f02b26-017c-4c0b-93c0-d671b0e37049)
+
